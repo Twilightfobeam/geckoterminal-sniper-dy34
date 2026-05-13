@@ -1,4 +1,4 @@
-# 
+# instant geckoterminal sniper bot | MEV-detection + priority-gas-auctions offers the most advanced geckoterminal sniper bot, with MEV-detection and priority-gas-auctions. Ideal for
 
 
 
